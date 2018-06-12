@@ -1,3 +1,9 @@
 1.  git clone [github html]
 2.  git add . 
 3.  git commit -m "message"
+
+1. git merge [bookmark]/[branch]
+2. git reset [file]
+3. git reset [commit]
+4. The file does not just rename 
+5. You may have made a fatal mistake and need to reset
