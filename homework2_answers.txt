@@ -12,3 +12,5 @@
 2. git checkout [branch-name]
 3. To not make fatal changes to the working master 
 
+1. Use git merge when it's a solo project, submit a merge request when working with others
+2. Git push
