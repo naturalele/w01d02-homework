@@ -7,3 +7,8 @@
 3. git reset [commit]
 4. The file does not just rename 
 5. You may have made a fatal mistake and need to reset
+
+1. git branch [branch name]
+2. git checkout [branch-name]
+3. To not make fatal changes to the working master 
+
