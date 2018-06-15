@@ -1,0 +1,30 @@
+body {
+	background-color: #989898;
+	text-decoration: none;
+	}
+
+img {display: block;
+margin-left: auto;
+margin-right: auto;
+width: 25%;
+margin-top: : 50px;
+margin-bottom: 50px;}
+
+h1 {
+	margin: 100px;
+	text-align: center;
+	color: #ffffff;
+}
+
+h3 {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a {
+	color: #ffffff;
+}
+.topnav {
+	text-decoration: none;
+	float: right;
+}
